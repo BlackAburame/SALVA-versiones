@@ -7,6 +7,24 @@
       "nombre": "Augusto Jurado",
       "estado": "activa",
       "creada": "2026-11-17"
+    },
+    {
+      "codigo": "GVRS-GK9X-EYNT",
+      "nombre": "Adrian Geldres",
+      "estado": "activa",
+      "creada": "2026-11-17"
+    },
+    {
+      "codigo": "U3AQ-MAP6-KUKM",
+      "nombre": "Santiago Salaverry",
+      "estado": "activa",
+      "creada": "2026-11-17"
+    },
+    {
+      "codigo": "FFQ5-KJ6R-3EH4",
+      "nombre": "Alexanders Paucar",
+      "estado": "activa",
+      "creada": "2026-11-17"
     }
   ]
 }
