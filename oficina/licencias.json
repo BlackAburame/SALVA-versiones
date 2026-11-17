@@ -1,5 +1,12 @@
 {
   "version": 1,
   "control": false,
-  "licencias": []
+  "licencias": [
+    {
+      "codigo": "TCJA-VLS9-ZPNP",
+      "nombre": "Augusto Jurado",
+      "estado": "activa",
+      "creada": "2026-11-17"
+    }
+  ]
 }
